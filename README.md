@@ -88,9 +88,10 @@ Both models are evaluated based on accuracy, confusion matrix, and classificatio
 Here are some visualizations generated during the analysis:
 
 - **Distribution of Diabetes Cases**:  
-  ![Distribution of Diabetes Cases](path_to_your_image)
+  ![Distribution of Diabetes Cases](![image](https://github.com/user-attachments/assets/493289b0-2f55-4681-b2b6-91a81c5563ca))
 - **Correlation Heatmap**:  
-  ![Correlation Heatmap](path_to_your_image)
+  ![Correlation Heatmap](![image](https://github.com/user-attachments/assets/9a57498a-980b-4719-9428-ae3ecb3718c2)
+)
 
 ## Conclusion
 
