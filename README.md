@@ -25,7 +25,7 @@ To run this project, you'll need to install the following dependencies:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-
+```
 ## How to Run
 
 1. Clone the repository:
