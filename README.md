@@ -52,6 +52,7 @@ We begin by loading the dataset, checking for missing values, and visualizing th
 ```python
 import pandas as pd
 df = pd.read_csv(dataset_url, names=columns)
+```
 
 ### Data Preprocessing
 
