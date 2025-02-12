@@ -74,3 +74,4 @@ print(confusion_matrix(y_test, y_pred_rf))
 print("Relatório de Classificação:")
 print(classification_report(y_test, y_pred_rf))
 
+df.info
